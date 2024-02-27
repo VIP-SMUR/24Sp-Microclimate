@@ -1,7 +1,7 @@
 from uwg import UWG
 
 # Define the .epw, .uwg paths to create an uwg object.
-epw_path = "Sp24-Microclimate/resources/USA_GA_Atlanta.722190_TMY2.epw" # available in resources directory.
+epw_path = "resources/USA_GA_Atlanta.722190_TMY2.epw" # available in resources directory.
 
 # path for Atlanta Airport EPW: Sp24-Microclimate/resources/USA_GA_Atlanta.722190_TMY2.epw
 # path for GT Campus EPW: Sp24-Microclimate/resources/GT_33.77463936796479_-84.39704008595767_2020.epw
