@@ -17,6 +17,6 @@ twine==4.0.2;python_version>='3.6'
 wheel==0.42.0
 setuptools==44.1.0;python_version<'3.0'
 setuptools==69.0.3;python_version>='3.6'
-importlib-metadata==7.0.1;python_version>='3.6'
+importlib-metadata==7.0.2;python_version>='3.6'
 importlib-metadata==2.0.0;python_version<'3.0'
 uwg-schema==0.2.6;python_version>='3.6'
