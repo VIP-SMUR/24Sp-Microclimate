@@ -1,3 +1,15 @@
+#NOTE
+#All of the parameters here should not be in camelCase.
+#Correct initialization, for example, bldDensity, should be 'blddensity' instead
+
+
+
+
+
+
+
+
+
 # =================================================
 # Sample UWGv4.2 simulation initialization parameters
 # Chris Mackey,2017
