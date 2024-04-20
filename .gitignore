@@ -19,3 +19,4 @@ logs/
 
 #pycharm
 /.idea
+/cache
