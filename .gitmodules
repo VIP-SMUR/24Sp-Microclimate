@@ -1,0 +1,3 @@
+[submodule "uwg"]
+	path = uwg
+	url = https://github.com/ladybug-tools/uwg
