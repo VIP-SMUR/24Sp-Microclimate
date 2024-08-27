@@ -1,2 +1,0 @@
-uwg-schema==0.2.11;python_version>='3.7'
-click>=7.1.2
